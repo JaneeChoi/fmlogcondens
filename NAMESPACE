@@ -5,8 +5,6 @@ export(paramFitKernelDensity)
 export(paramFitGammaOne)
 export(correctIntegral)
 export(calcCvxHullFaces)
-export(sp.mix.1D)
-export(sp.mix.multi)
 
 importFrom("stats", "runif", "sd", "var")
 importFrom("mvtnorm","dmvnorm")
