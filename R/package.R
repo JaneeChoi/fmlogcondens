@@ -1,1 +1,1 @@
-#' @useDynLib SpMix
+#' @useDynLib fmlogcondens
