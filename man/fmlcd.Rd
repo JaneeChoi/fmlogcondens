@@ -4,8 +4,16 @@
 \alias{fmlcd}
 \title{Estimates a Log-Concave Density}
 \usage{
-fmlcd(X, w = rep(1/nrow(X), nrow(X)), init = "", verbose = 0,
-  intEps = 0.001, objEps = 1e-07, offset = 0.1, maxIter = 10000)
+fmlcd(
+  X,
+  w = rep(1/nrow(X), nrow(X)),
+  init = "",
+  verbose = 0,
+  intEps = 0.001,
+  objEps = 1e-07,
+  offset = 0.1,
+  maxIter = 10000
+)
 }
 \arguments{
 \item{X}{Matrix of data points (one sample per row)}

@@ -1,1 +1,0 @@
-../AVXinfo.c
