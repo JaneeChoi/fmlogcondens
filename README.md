@@ -38,7 +38,7 @@ For more details, please see the [documentation](vignettes/documentation.html) a
 
 ## version
 
-This is the modified version of fmlogcondens for the package [multiLocalFDR](https://github.com/JungiinChoi/multiLocalFDR) forked from the origianl [fmlogcondens]https://github.com/FabianRathke/fmlogcondens).
+This is a modified version of fmlogcondens for the package [multiLocalFDR](https://github.com/JungiinChoi/multiLocalFDR) forked from the original [fmlogcondens](https://github.com/FabianRathke/fmlogcondens).
 
 If you found an error or have questions regarding this modified version, please contact me: Jungin Choi (serimtech07 at snu.ac.kr).
 
